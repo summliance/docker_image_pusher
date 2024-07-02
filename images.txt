@@ -5,3 +5,4 @@ mysql:8.0.21
 mysql:5.7.32
 mysql:8.0.31
 registry.cn-qingdao.aliyuncs.com/dataease/dataease:v1.18.15
+openjdk:8u212-jre

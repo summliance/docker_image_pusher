@@ -6,3 +6,9 @@ mysql:5.7.32
 mysql:8.0.31
 registry.cn-qingdao.aliyuncs.com/dataease/dataease:v1.18.15
 openjdk:8u212-jre
+elasticsearch:7.17.19
+docker.elastic.co/kibana/kibana:7.17.19
+logstash:7.17.19
+apache/rocketmq:4.9.6
+xuxueli/xxl-job-admin:2.3.0
+apacherocketmq/rocketmq-dashboard:1.0.0

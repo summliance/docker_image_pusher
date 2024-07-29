@@ -12,3 +12,4 @@ logstash:7.17.19
 apache/rocketmq:4.9.6
 xuxueli/xxl-job-admin:2.3.0
 apacherocketmq/rocketmq-dashboard:1.0.0
+google/cadvisor:0.49.1

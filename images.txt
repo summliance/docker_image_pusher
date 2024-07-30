@@ -13,3 +13,8 @@ apache/rocketmq:4.9.6
 xuxueli/xxl-job-admin:2.3.0
 apacherocketmq/rocketmq-dashboard:1.0.0
 google/cadvisor:latest
+exadel/compreface-core:1.2.0-facenet
+exadel/compreface-fe:1.2.0
+exadel/compreface-api:1.2.0
+exadel/compreface-admin:1.2.0
+exadel/compreface-postgres-db:1.2.0

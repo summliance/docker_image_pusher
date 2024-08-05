@@ -19,4 +19,4 @@ exadel/compreface-api:1.2.0
 exadel/compreface-admin:1.2.0
 exadel/compreface-postgres-db:1.2.0
 minio/minio:latest
-apache/doris:latest
+apache/doris

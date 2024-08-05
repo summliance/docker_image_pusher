@@ -20,3 +20,4 @@ exadel/compreface-admin:1.2.0
 exadel/compreface-postgres-db:1.2.0
 minio/minio:latest
 apache/doris
+nginx

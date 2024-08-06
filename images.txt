@@ -20,3 +20,5 @@ exadel/compreface-admin:1.2.0
 exadel/compreface-postgres-db:1.2.0
 minio/minio:latest
 apache/doris:build-env-for-2.0
+apache/doris:2.0.3-fe-x86_64
+apache/doris:2.0.3-be-x86_64

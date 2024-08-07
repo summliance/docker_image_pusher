@@ -22,3 +22,6 @@ minio/minio:latest
 apache/doris:build-env-for-2.0
 apache/doris:1.2.2-be-x86_64-noavx2
 apache/doris:1.2.2-fe-x86_64
+bde2020/hadoop-namenode:2.0.0-hadoop2.7.4-java8
+bde2020/hive:2.3.2-postgresql-metastore
+bde2020/hive-metastore-postgresql:2.3.0

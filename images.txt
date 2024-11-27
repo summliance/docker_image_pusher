@@ -31,3 +31,4 @@ bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
 mfridman/hadoop-exporter:latest
 bde2020/hive-metastore:2.3.0
 rabbitmq:3.8-management
+rabbitmq:3.8.28-management

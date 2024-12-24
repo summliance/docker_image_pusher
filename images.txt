@@ -30,4 +30,4 @@ shawnzhu/prestodb:0.181
 bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
 rabbitmq:3.8-management
 rabbitmq:3.8.28-management
-localai/localai
+docker pull localai/localai:sha-0eb2911-cublas-cuda12-ffmpeg-core

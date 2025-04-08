@@ -13,11 +13,6 @@ apache/rocketmq:4.9.6
 xuxueli/xxl-job-admin:2.3.0
 apacherocketmq/rocketmq-dashboard:1.0.0
 google/cadvisor:latest
-exadel/compreface-core:1.2.0-facenet
-exadel/compreface-fe:1.2.0
-exadel/compreface-api:1.2.0
-exadel/compreface-admin:1.2.0
-exadel/compreface-postgres-db:1.2.0
 minio/minio:latest
 apache/doris:build-env-for-2.0
 apache/doris:1.2.2-be-x86_64-noavx2
@@ -30,5 +25,4 @@ shawnzhu/prestodb:0.181
 bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
 rabbitmq:3.8-management
 rabbitmq:3.8.28-management
-localai/localai:latest-aio-cpu
-localai/localai:latest-gpu-nvidia-cuda-12
+amancevice/superset:2.0.0

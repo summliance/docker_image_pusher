@@ -28,3 +28,4 @@ rabbitmq:3.8.28-management
 amancevice/superset:2.0.0
 mintplexlabs/anythingllm:latest
 greenplumdb/greenplum-db:latest-centos7
+dpage/pgadmin4

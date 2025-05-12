@@ -29,4 +29,4 @@ amancevice/superset:2.0.0
 mintplexlabs/anythingllm:latest
 projectairws/greenplum:latest
 dpage/pgadmin4:latest
-dpage/pgadmin4:4.30
+dpage/pgadmin4:6.18
